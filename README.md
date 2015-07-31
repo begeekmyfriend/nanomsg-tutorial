@@ -12,7 +12,7 @@ Build examples
 --------------
 
 ```shell
-        cd nanomsg-examples
+        cd nanomsg-tutorial
         make
 ```
 
